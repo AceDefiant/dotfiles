@@ -1,0 +1,13 @@
+
+call plug#begin('~/.config/nvim/autoload/plugged')
+
+	Plug 'sheerun/vim-polyglot'
+	Plug 'jiangmiao/auto-pairs'
+	Plug 'tpope/vim-surround'
+	Plug 'scrooloose/syntastic'
+	Plug 'scrooloose/nerdtree'
+	Plug 'vim-airline/vim-airline'
+	Plug 'vim-airline/vim-airline-themes'
+
+
+call plug#end()
