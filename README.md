@@ -1,8 +1,13 @@
 My dotfiles
 
-Includes:
-- Neovim config
-- Alacritty config
-- Zsh config
+Includes Configs For:
+- Alacritty
+- mpv
+- Ncspot
+- Neovim
+- Qutebrowser
+- Starship Prompt
+- tmux
 - Xresources
 - Xprofile
+- Zsh
