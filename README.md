@@ -1,13 +1,12 @@
-My dotfiles
+My Dot Files
 
-Includes Configs For:
+Includes:
 - Alacritty
 - mpv
 - Ncspot
 - Neovim
 - Qutebrowser
-- Starship Prompt
 - tmux
 - Xresources
-- Xprofile
+- Zathura
 - Zsh

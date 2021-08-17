@@ -1,0 +1,2347 @@
+cd
+ls
+cd Do
+cd Documents
+ls
+rm '#dnd.txt#' '#emacspractice.txt#'
+rm emacspractice.txt~
+ls
+rm emacspractice.txt
+ls /usr/share/applications
+nvim /usr/share/applications/ranger.desktop
+cd
+ls
+cd Software
+ls
+cd dmenu
+ls
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo make clean install
+nvim config.h
+ls
+rm 1
+sudo make clean install
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo make clean install
+cd
+ls
+nvim c
+c
+cd ../..
+ls
+cd shell_scripts
+cd workspace
+ls
+ls
+ls
+nvim termapps.sh
+chmod +x termapps.sh
+ls
+vim
+vim
+nvim
+nvim
+nvim
+nvim
+sudo pacman -Rs vim
+pacman -Qqe
+pacman -Qs gtk
+df
+df -h
+neofetch
+neofetch
+sudo pacman -S emacs
+emacs -nw
+emacs .zshrc
+neofetch
+ls
+ls -A
+nvim .emacs
+emacs .emacs
+nvim .emacs
+sudo pacman -Rs emacs
+ls -A
+rm .emacs
+rm .emacs~
+nvim
+ls
+ls -A
+rm -rf .emacs.d
+ls
+ls -A
+c
+ls
+sudo pacman -S vim
+vim
+pacman -Ss cloc
+sudo pacman -S cloc
+cd .sc
+cd ~/.scripts
+ls
+nvim clocgit
+chmod +x clocgit
+cd
+source .zshrc
+nvim .zshrc
+source .zshrc
+clocgit https://github.com/rui314/chibicc
+ls
+pacman -Qs bash
+pacman -Qs binutils
+pacman -Qs bison
+pacman -Qs bzip
+pacman -Qs 
+pacman -Qs coreutils
+pacman -Qs diff
+pacman -Qs findut
+pacman -Qs gawk
+sudo cfdisk
+lsblk
+sudo mkfs.fat -F32 /dev/sda4
+sudo pacman -S dosfstools
+sudo mkfs.fat -F32 /dev/sda4
+sudo cfdisk
+sudo cfdisk
+lsblk
+sudo mkfs.fat -F32 /dev/sda3
+sudo mkfs.ext4 /dev/sda4
+lsblk
+reboot
+wp -r
+wp -R
+wp
+wp -r Pictures/wallpapers
+echo "I ${\033[0;31m}love"
+echo "I ${\033}love"
+echo "I ${tput setaf 1}love"
+echo "I $(tput setaf 1)love"
+echo "I $(tput setaf 1)love"
+tput
+man tput
+neofetch
+echo "I $(tput setaf 5)love"
+sudo find / -name conio.h
+uname -a
+uname
+uname --help
+man uname
+cd ~/.config/nvim/
+nvim init.vim
+sudo pacman -S xclip
+nvim init.vim
+nvim init.vim
+pacman -Ss tmux
+nvim
+dmesg -w
+sudo dmesg -w
+tmux new -s num2
+cd ~/.config
+ls
+cd
+ls
+ls -A
+nvim .tmux.conf
+exit
+exit
+exit
+exit
+nvim .tmux.conf
+cd
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+tmux list-keys
+tmux list-keys | list
+tmux list-keys | less
+tmux list-keys | less
+tmux list-keys | less
+ls
+cd /
+ls
+ls mnt
+ls boot
+sudo cp -r boot BACKUP_boot
+ls
+cd
+lsblk
+c
+ls
+cd ..
+mkdir notes
+cd notes
+nvim best_practices.txt
+nvim test.c
+gcc test.c
+nvim test.c
+rm test.c
+ls
+sudo find / -name errno.h
+nvim
+c
+ls
+nvim test.c
+nvim test.c
+nvim
+nvim linked_list
+nvim linked_list.c
+nvim linked_list.c
+echo "hello" > test.txt
+nvim linked_list.c
+nvim linked_list.c
+echo "hello test 2" > test2.txt
+nvim linked_list.c
+nvim linked_list.c
+nvim linked_list.c
+nvim linked_list.c
+nvim linked_list.c
+sudo pacman -S tmux
+tmux
+tmux
+sudo pacman -S screen
+screen
+tmux
+tmux
+tmux
+tmux
+cd
+cd
+tmux
+tmux
+tmux
+nvim .tmux.conf
+tmux
+tmux
+nvim .tmux.conf
+cd
+nvim .tmux.conf
+nvim .tmux.conf
+cd
+split
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+exit
+nvim .tmux.conf
+exit
+nvim .tmux.conf
+nvim .tmux.conf
+exit
+nvim .tmux.conf
+exit
+tmux
+tmux
+tmux
+tmux
+tmux
+tmux
+sudo pacman -Rs tmux
+ls
+nvim
+ls
+ls
+cd .config
+ls
+sudo pacman -Rs tmux
+cd ..
+ls
+ls -A
+rm .tmux.conf
+cd .config
+ls
+sudo pacman -S lf
+yay -Ss lf
+yay -S lf
+lf
+ls -A
+sudo find / -name lf
+cd /usr/share/lf
+ls
+ls -A
+nvim lfcd.sh
+ranger
+yay -Rs lf
+spt
+yay -S ncspot
+ncspot
+ncspot
+ncspot
+ncspot
+cd ~/.config
+ls
+cd ncspot
+ls
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+nvim config.toml
+ncspot
+cd ..
+ls
+vf
+cd
+ls
+ls -A
+ls
+cd .config
+ls
+rm -rf qutebrowser
+yay -Rs spotify-tui
+pacman -Rs spotifyd
+sudo pacman -Rs spotifyd
+cd
+ps aux | grep spotifyd
+kill 803
+ncspot
+ls
+cd .config
+ls
+rm -rf spotify-tui spotifyd
+ls
+cd kde.org
+ls
+cd ..
+rm -rf kde.org
+cd menus
+ls
+cd applications-merged
+ls
+cd ../..
+rm -rf menus
+ls libfm
+nvim libfm/libfm.conf
+libfm
+libfm
+..
+rm -rf libfm
+rm dolphinrc
+ls cef_user_data
+ls cef_user_data/Dictionaries
+rm -rf pcmanfm
+ls session
+rm -rf session
+ls procps
+ls
+rm -rf procps
+ls -A
+cat cef_user_data/Dictionaries/en-US-8-0.bdic
+ls -A
+pacman -Ss keepassxc-cli
+pacman -Ss keepassxc
+ls dconf
+nvim dconf/user
+cd
+ls -A
+ls .cargo
+pacman -Ss discord
+yay -Ss discord
+yay -Ss discord-cli
+yay -Ss discord-
+yay -Ss discord | grep cli
+yay -S discli
+discli
+nvim .tmux.conf
+keepassxc-cli
+keepassxc-cli open Sync/Pass.kdbx
+yay -Rs discli
+yay -Ss discord cli
+yay -S gord-bin
+gord
+yay -Rs gord
+yay -Rs gord-bin
+nc
+man nc
+link
+sudo pacman -S w3m
+w3m
+w3m duckduckgo.com
+w3m duckduckgo.com
+cd .config
+ls
+shutdown -h now
+nvim
+nvim
+this a test i be testin shit ya feel me?
+bro stfu u an op ong
+this a test
+yes
+this a test
+clear
+dfsa
+nvim .zshrc
+nvim .zshrc
+man tmux
+tmux
+tmux
+tmux
+tmux -sessions
+tmux --help
+tmux session
+tmux sessions
+tmux
+tmux
+tmux
+nvim .zshrc
+nvim .zshrc
+nvim .zshrc
+sessions
+tmux sessions
+pacman -Qs tmux
+sudo pacman -S tmux
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+neofetch
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+tmux
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+tmux
+tmux
+tmux
+tmux
+tmux list-sessions
+tmux attach-session -t 0
+neofetch
+cbonsai
+ncspot
+ncspot
+nspot
+ncspot
+cd .config
+ls
+cd ncspot
+ls
+nvim config.toml
+echo $TERM
+ncspot
+nvim .tmux.conf
+nspot
+ncspot
+ncspot
+ncspot
+nvim .zshrc
+echo $TERM
+ncspot
+clear
+nvim .tmux.conf
+ reset && fg > /dev/null
+ reset && fg > /dev/null
+nvim .tmux.conf
+clear
+fsd
+d
+sf
+ds
+f
+sdf
+sd
+clear
+nvim .config/starship.toml
+nvim .tmux.conf
+re
+d
+nvim .tmux.conf
+nvim .tmux.conf
+echo $is_vim
+echo helo
+env
+nvim .tmux.conf
+env
+nvim .tmux.conf
+dasd
+asdas
+sa
+d
+nvim .tmux.conf
+nvim .tmux.conf
+exit
+tmux
+nvim
+tmux
+tmux
+tmux
+tmux
+tmux
+tmux
+tmux
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+nvim .tmux.conf
+man tmux
+echo $i
+clear
+nvim ~/.config/starship.toml
+d
+nvim .tmux.conf
+ncspot
+ncspot
+echo "#{pane_current_path}"
+echo "#{pane_current_path}"
+echo $TMUX
+clear
+ds
+s
+s
+s
+s
+s
+s
+clear
+nvim .config/starship.toml
+nvim .config/starship.toml
+nvim .config/ncspot/config.toml
+nvim .tmux.conf
+nvim .tmux.conf
+neofetch
+ncspot
+ncspot
+ncspot
+ncspot
+ncspot
+alacritty -e ncspot
+alacritty -e ncspot
+alacritty -e ncspot &
+tmux
+tmux
+tmux
+tmux
+tmux
+tmux
+nvim .tmux.conf
+tmux
+tmux
+tmux
+nvim .tmux.conf
+mkdir .config/tmux
+mv .tmux.conf .config/tmux
+nvim .zshrc
+mv ~/.config/tmux/.tmux.conf tmux.conf
+cd .config/tmux/
+ls
+git clone https://github.com/tmux-plugins/tpm
+ls
+ls -A
+mv ~/tmux.conf .
+ls
+cd tpm
+ls
+nvim .zshrc
+..
+nvim tmux.conf
+tmux --help
+man eval
+tmux source ~/.config/tmux/tmux.conf
+cbonsai
+ncspot
+cd .config/tmux/
+nvim tmux.conf
+exit
+nvim tmux.conf
+nvim ~/.config/tmux/tmux.conf
+exit
+yay -Ss nerd-fonts
+yay -S nerd-fonts-complete
+nvim ~/.config/tmux/tmux.conf
+cd .config/tmux
+ls
+cd plugins
+ls
+cd tmux-nova
+ls
+cd ..
+cd ..
+ls
+ls plugins/tpm
+rm -rf tpm
+nvim tmux.conf
+cd plugins/tmux-nova
+ls
+cd scripts
+ls
+nvim nova.sh
+nvim nova.sh
+nvim nova.sh
+yay -Ss nerd-font
+cbonsai
+cbonsai
+cbonsai
+cbonsai
+cd ../..
+..
+nvim tmux.conf
+nvim tmux.conf
+ls
+fc-list | grep Nerd Font
+fc-list | grep "Nerd Font"
+fc-list | grep "Nerd Font" | grep -i hack
+pacman -Rs font-awesome
+sudo pacman -Rs font-awesome
+pacman -Qs awesome
+sudo pacman -Rs otf-font-awesome
+nvim ../starship.toml
+yay -Qs nerd
+nvim ~/.config/alacritty/alacritty.yml
+fc-list | grep nerd
+sudo fc-cache -fv
+clear
+ls
+nvim tmux.conf
+sudo find / -name nerd
+sudo find / -name "*nerd*"
+yay -Qs nerd
+sudo find / -name st
+get_icon_names
+nvim ../alacritty/alacritty.yml
+nvim tmux.conf
+ncspot
+ncspot
+nvim plugins/tmux-nova/nova.tmux
+nvim plugins/tmux-nova/scripts/nova.sh
+\
+echo 
+echo #{world_clock_status}
+echo "#{world_clock_status}"
+sudo find / -name "tmux-world*"
+cd plugins
+ls -A
+$ git clone https://github.com/alexanderjeurissen/tmux-world-clock ~/clone/path\
+ss
+git clone https://github.com/alexanderjeurissen/tmux-world-clock
+ls -A
+cd tmux-
+cd tmux-world-clock
+ls
+cd scr
+cd scripts
+ls
+pip3 install pytz
+nvim tmux_world_clock.sh
+./tmux_world_clock.sh
+./tmux_world_clock.sh 'America/New_York'
+ls
+nvim helpers.sh
+./tmux_world_clock.sh 'America/New_York'
+nvim helpers.sh
+./tmux_world_clock.sh "full"
+ps aux | grep discord
+kill 2009
+ps aux | grep discord
+cd .config/tmux
+ls
+nvim tmux.conf
+cd plugins/tmux-world-clock/scripts
+nvim helpers.sh
+cd ../..
+rm -rf tmux-world-clock
+cd ..
+nvim tmux.conf
+cd ..
+ls
+rm -rf cordless
+cd ncspot
+ls
+nvim config.toml
+ls
+cd ../alacritty
+nvim alacritty.yml
+cd ..
+ls
+rm -rf gord
+rm -rf cef_user_data/
+nvim
+nvim starship.toml
+nvim starship.toml
+clear
+htop
+top
+clear
+sudo pacman -S htop
+r
+sudo pacman -S htop
+clear
+sudo pacman -S htop
+clear
+htop
+cd ~/Software
+ls
+rm -rf dmenu_good
+cd dmenu
+ls
+sudo make clean install
+cd ..
+rm -rf dmenu
+git cloneh https://github.com/AceDefiant/dmenu
+git clone https://github.com/AceDefiant/dmenu
+cd dmenu
+ls
+sudo make clean install
+cd ..
+ls
+cd slstatus
+nvim config.h
+ls
+nvim config.def.h
+sudo make clean install
+ls
+nvim config.h
+sudo make clean install
+ps aux | grep slstatus
+kill 1359
+slstatus &
+nvim config.h
+sudo nvim config.h
+sudo make clean install
+ps aux | grep slstatus
+kill 522660
+slstatus &
+nvim slstatus
+nvim config.
+nvim config.h
+sudo nvim config.h
+ps aux | grep slstatus
+kill 526155
+sudo make clean install
+slstatus &
+clear
+cd ..
+ls
+cd dotfiles
+ls
+ls -A
+cd .config
+ls
+ls
+rm -rf *
+cp -r ~/.config/alacritty ~/.config/nvim ~/.config/ncspot ~/.config/tmux
+ls
+ls -A
+cp -r ~/.config/alacritty ~/.config/nvim ~/.config/ncspot ~/.config/tmux .
+ls -A
+cd ..
+ls
+ls -A
+cp -r ~/.config/starship.toml .config
+cp ~/.zshrc .
+ls
+ls -A
+nvim .zshrc
+git status
+git commit -a -m "Update config."
+git push
+cd ..
+ls
+sxiv
+cd sxiv
+ls
+nvim config.h
+ls
+cd ..
+ls
+cd ..
+ls
+ls -A
+cbonsai
+cbonsai
+neofetch
+htop
+clear
+neofetch
+ncspot
+neofetch
+nvim .config/nvim/init.vim
+clear
+neofetch
+ncspot
+tmux
+tmux
+tmux
+tmux
+cd
+cd .config
+ls
+cd tmux
+ls
+rm -rf alacritty ncspot nvim
+cd
+nvim .zshrc
+clear
+neofetch
+clear
+htop
+clear
+neofetch
+nvim
+nvim
+touch test.txt
+nvim test.txt
+nvim test.txt
+cat test.txt
+nvim test.txt
+cd .config/nvim
+ls
+mkdir thesaurus
+cd thesaurus
+ls
+nvim r
+nvim test.txt
+ls
+nvim test.txt
+rm test.txt
+cd
+rm test.txt
+ls
+clear
+keepassxc-cli
+keepassxc-cli open
+keepassxc-cli open Sync/Pass.kdbx
+clear
+tmux
+sudo pacman -Rs ttf-hack
+sudo pacman -Rs spotify spicetify-cli-git spicetify-themes-git ranger
+ls -A
+ls -A | wc -l
+sudo pacman -Rs w3m
+rm -rf .w3m
+pacman -Qqe
+clear
+sudo find / -name st
+ls -A
+cd Games
+ls
+cd ..
+nvim .config/alacritty/alacritty.yml
+clear
+ls -A
+cd Downloads
+ls
+ls -A
+cd ../Desktop
+ls
+cd ..
+rmdir Desktop
+cd .scripts
+ls
+clocgit https://github.com/torvals/linux
+keepassxc-cli open Sync/Pass.kdbx
+clear
+nvim .scripts/clocgit
+clocgit https://github.com/torvals/linux
+clocgit https://github.com/torvalds/linux
+slstatus &
+shutdown -h now
+keepassxc-cli open Sync/Pass.kdbx
+keepassxc-cli open ~/Sync/Pass.kdbx
+export LFS=/mnt/lfs
+cd /mnt
+ls
+mkdir lfs
+sudo mkdir lfs
+ls
+cd
+cd $LFS
+cd
+su
+nvim .zshrc
+lsblk
+mkdir -pv $LFS
+cd $LFS
+cd ..
+ls
+mount -v -t ext4 /dev/sda4 $LFS
+sudo mount -v -t ext4 /dev/sda4 $LFS
+ls
+lsblk
+cd lfs
+ls
+sudo mount -v -t fat32 /dev/sda3 $LFS/boot
+mkdir -v $LFS/boot
+sudo mkdir -v $LFS/boot
+sudo mount -v -t fat32 /dev/sda3 $LFS/boot
+sudo mount -v -t fat /dev/sda3 $LFS/boot
+sudo mount -v -t FAT32 /dev/sda3 $LFS/boot
+sudo mount -v /dev/sda3 $LFS/boot
+lsblk
+mount
+cat /etc/fstab
+mkdir -v $LFS/sources
+sudo mkdir -v $LFS/sources
+ls
+cd sources
+cd ..
+sudo chmod -v a+wt $LFS/sources
+ls -l
+ls
+nvim wget-list.txt
+sudo nvim wget-list.txt
+ls
+wget --input-file=wget-list.txt --continue --directory-prefix=$LFS/sources
+sudo pacman -S wget
+wget --input-file=wget-list.txt --continue --directory-prefix=$LFS/sources
+clear
+ls
+rm wget-list.txt
+sudo rm wget-list.txt
+ls sources
+sudo nvim tmp.sh
+chmod +x tmp.sh
+sudo chmod +x tmp.sh
+sudo ./tmp.sh
+ls
+ls
+sudo ./tmp.sh
+nvim tmp.sh
+ls -l
+sudo ./tmp.sh
+ls
+echo $LFS
+sudo echo $LFS
+clear
+mkdir -pv $LFS/{bin,etc,lib,sbin,usr,var}
+sudo mkdir -pv $LFS/{bin,etc,lib,sbin,usr,var}
+sudo case $(uname -m) in
+uname -m
+sudo mkdir -pv $LFS/lib64
+ls
+sudo rm tmp.sh
+sudo mkdir -pv $LFS/tools
+groupadd lfs
+sudo groupadd lfs
+sudo useradd -s /bin/bash -g lfs -m -k /dev/null lfs
+passwd lfs
+sudo passwd lfs
+sudo chown -v lfs $LFS/{usr,lib,lib64,var,etc,bin,sbin,tools,source}
+sudo chown -v lfs $LFS/{usr,lib,lib64,var,etc,bin,sbin,tools,sources}
+clear
+ls -l
+sudo chown -v lfs $LFS/{boot,lost+found}
+ls
+ls -l
+sudo chown -v lfs $LFS/boot
+lsblk
+sudo umount /dev/sda3
+ls -l
+sudo chown -v lfs $LFS/boot
+ls
+ls -l
+clear
+ls
+ls -l
+su - lfs
+clear
+cd
+nvim ~/.config/tmux/tmux.conf
+nvtop
+exit tmux
+whoami
+config.guess
+nvim ~/.bashrc
+cd ~/Software/dwm
+readelf -l dwm | grep interpreter
+cd
+ls
+cd Documents
+ls
+nvim dummy.c
+gcc -v dummy.c
+gcc -v dummy.c | grep ld
+gcc -v dummy.c | grep "ld"
+gcc -v dummy.c | grep --color "ld"
+grep --help
+gcc -v dummy.c | grep --color "ld"
+rm -rf dummy.c a.out
+clear
+cd /home/lfs
+nvim restoring_position_lfs.txt
+exit
+ncspot
+exit
+neofetch
+neofetch
+neofetch
+clear
+clear
+neofetch
+clear
+neofetch
+clear
+cbonsai
+cbonsai
+exit
+lsblk
+nvim .config/tmux/tmux.conf
+nvim .config/tmux/tmux.conf
+ls
+cd Documents
+ls
+mkdir coding
+mv assembly/ c_code Disassembly shell_scripts coding
+nvim ~/.zshrc
+ls
+mkdir notes
+cd notes
+mkdir computer_architecture
+cd ../..
+ls
+ls -A
+pacman -Ss rust
+clear
+ls
+cd Software
+ls
+cd ../Documents
+ls
+rm -rf Rockstar\ Games
+cd ..
+ls
+ls
+cd Documents
+ls
+cd notes
+ls
+cd computer_architecture
+ls
+nvim 1.txt
+rm 1
+ls
+ls -a
+shutdown -h now
+sudo pacman -S qutebrowser
+yay -S animdl-git
+sudo pacman -S ytfzf
+yay -S ytfzf
+ytfzf -h
+ddgr -h
+source .zshrc
+ytfzf
+sudo pacman -S ueberzug
+ytfzf fzf mental outlaw
+ytfzf fzf
+find / -name fzf
+sudo find / -name fzf
+cd /usr/share/fzf
+ls
+nvim key-bindings.zsh
+nvim completion.
+nvim completion.zsh
+nvim key-bindings.zsh
+sudo find / -name "*fzf*"
+sudo find / -name ytfzf
+ytfzf -D test
+ytfzf
+ytfzf
+yay -S fzf
+yay -S ddgr
+ytfzf 
+ytfzf clear
+nvim ~/.zshrc
+animdl
+animd --help
+animdl --help
+animdl test 'code geass'
+animdl test
+animndl
+animdl
+fzf
+fg fzf
+clear
+pacman -S fzf
+pacman -Ss fzf
+ytfzf configuring qutebrowser
+ytfzf configuring qutebrowser
+source .zshrc
+ytfzf configuring qutebrowser
+ps aux | grep ytfzf
+kill 42972
+xkill
+ytfzf configuring qutebrowser &
+kill 45745
+clear
+ks
+ls
+rm -rf rockstar-games-launcher
+conf
+ls
+cd qutebrowser
+ls
+nvim config.py
+ls
+nvim config.py
+ytfzf configuring qutebrowser
+ytfzf configuring qutebrowser
+clear
+cd .mozilla/firefox/98rxkrv0.Hardened/Prismatic-Night
+ls
+pwd
+keepassxc-cli open ~/Sync/Pass.kdbx
+clear
+ncspot
+neofetch
+clear
+tmuz
+tmux
+shutdown -h now
+ncspot
+sudo pacman -S ranger
+ddgr mpv keybinds
+echo $BROWSER
+find / -name ddgr
+sudo find / -name ddgr
+ddhgr -h
+ddgr -h
+export BROWSER=qutebrowser
+ddgr -h
+ddgr mpv keybinds
+nvim .zshrc
+nvim ~/.config/qutebrowser/config.py
+ls
+cd ~/.config/qutebrowser
+ls
+cd bookmarks
+ls
+nvim urls
+nvim urls
+cd ..
+nvim config.py
+nvim bookmarks/urls
+groff
+nvim bookmarks/urls
+cd ~/Downloads
+ls
+groff LFS-BOOK-10.1-systemd.pdf
+clear
+sxiv LFS-BOOK-10.1-systemd.pdf
+nvim ~/.zshrc
+source .zshrc
+ls
+sudo pacman -S zathura
+zathura LFS-BOOK-10.1-systemd.pdf
+ls
+rm LFS-BOOK-10.1-systemd.pdf
+zathura LFS-BOOK-10.1-systemd.pdf
+pacman -Ss zathura
+sudo pacman -S zathura-pdf-poppler
+pacman -Ss zathura
+zathura LFS-BOOK-10.1-systemd.pdf
+clear
+ls
+cd ..
+ls
+ls -A
+ytfzf mental outlaw cordless
+ytfzf mental outlaw cordless
+ps aux | grep ytfzf
+kill 110672
+ncspot
+cd ..
+ls
+ls -A
+cd .cache
+ls
+sudo find / -name dmenu_path
+cd /usr/local/bin
+ls
+./dmenu_run
+cd ~/dmenu
+./dmenu_run
+wp
+clocgit
+clear
+nvim ~/.zshrc
+nvim ~/.config/pulse/client.conf
+echo $BROWSER
+ddgr mpv keybinds
+clear
+cd
+cd ~
+ls -A
+rm -rf .ghidra
+nvim .bashrc
+rm -rf .gradle .mono .nv .nvidia-settings-rc
+ls
+cd go
+ls
+cd pkg
+ls
+ls
+cd ../..
+rm -rf go
+ls -A
+ls .gnupg
+ls .cargo
+ls .cargo/registry
+ls -A
+cat .gitconfig
+cat .viminfo
+rm .viminfo
+rm .wget-hsts
+rm -rf .java
+clear
+ls -A
+ls -A | wc -l
+cat .steam
+cat .steampath
+file .steamp
+file .steampath
+ls -l
+ls -lA
+cd .steam/sdk32/
+ls
+cd ..
+ls
+cat steam.pi
+cat steam.pid
+clear
+ls -A
+cd ..
+ls -A
+rm -rf .steampath .steampid
+ls -A
+cd Games
+ls
+ls -A
+cd ..
+ls -A
+rm -rf Games
+ls -A
+ls
+ls Software
+ls /usr/src
+ls
+mv Software /usr/src
+sudo mv Software /usr/src
+ls
+ls -A
+cd .scripts
+ls
+echo $PATH
+ls /usr/local/bin
+mkdir /usr/local/bin/custom
+sudo mkdir /usr/local/bin/custom
+sudo mv * /usr/local/bin/custom
+ls
+cd ..
+rm -rf .scripts
+wp
+echo $PATH
+nvim .zshrc
+cd /usr/local/bin
+ls
+wp
+ls custom
+clocgit
+mv custom/* .
+sudo mv custom/* .
+ls
+rm -rf custom
+sudo rm -rf custom
+wp
+clocgit
+clear
+cd
+ls -A
+nvim .zshrc
+mv ~/.gnupg ~/.config/gnupg
+ls .config
+source .zshrc
+cd .config/pulse
+ls
+mkdir ${XDG_CONFIG_HOME:-${HOME/.config}}/pulse
+ls
+cd ..
+ls
+cd ..
+ls
+ls -A
+cd .config
+cd pulse
+ls
+cp /etc/pulse/client.conf .
+ls
+nvim client.conf
+cd
+ls -A
+rm -rf .pulse-cookie
+cd .config
+ls
+echo ${XDG_CONFIG_HOME:-${HOME/.config}}
+mkdir wget
+cd wget
+cp /etc/wgetrc .
+cd
+nvim .zshrc
+cd -
+nvim wgetrc
+cd
+nvim .zshrc
+cd -
+cd ..
+mkdir less
+cd ..
+nvim .zshrc
+cd -
+mkdir Xauthority
+cd ..
+source .zshrc
+ls -A
+rm -rf .Xauthority .lesshst
+nvim /etc/X11/xorg.conf
+nvim .zshrc
+echo $PATH
+cd /usr/local/bin
+ls
+cd /usr/src
+ls
+cd Software
+ls
+cd ..
+ls
+ls -l
+cd Software
+ls
+ls -l
+cd dmenu
+ls
+nvim config.h
+cd ..
+ls -l
+nvim dwm/config.
+nvim dwm/config.h
+echo $PATH
+dmenu_run
+dmenu_run 
+ls
+sudo mv dmenu ~
+dmenu_run
+ls
+cd
+ls
+cd dmenu
+sudo make clean install
+ls
+dmenu_path
+dmenu_path
+cat dmenu
+cat dmenu_path
+nvim dmenu_path
+clear
+ls -A
+cat dmenu_path
+./dmenu_path
+cd
+nvim test.sh
+chmod +x test.sh
+./test.sh
+ls /usr/bin
+clear
+ls
+rm test.sh
+ls
+sudo mv dmenu /usr/src/Software
+ls
+ls pulse
+cat /tmp
+ls /tmp
+clear
+rm -rf pulse
+nvim .zshrc
+ls -A
+chsh
+ls -A wc -l
+ls -A | wc -l
+ls
+git clone https://git.suckless.org/dmenu
+cd dmenu
+sudo make clean install
+cd ..
+rm -rf dmenu
+cd /usr/src/Software/dmenu
+sudo make clean install
+cd ..
+cd
+nvim .zshrc
+sudo reboot
+ddgr linux can you delete .cargo
+ddgr move cargo directory linux
+ddgr move cargo directory linux &
+kill 134717
+clear
+ddgr proper place to keep custom scripts linux
+clear
+ls -A
+sudo mv /usr/src/Software .
+ls
+cd Software
+ls
+cd dmenu
+sudo make clean install
+clear
+cd
+nvim .zshrc
+ls
+cd .config
+ls
+ls Xauthority
+cd ..
+ls
+ls -A
+dmenu_run
+dmenu_path
+which dmenu_path
+cd /usr/local/in
+cd /usr/local/bin
+ls
+rm -rf dmenu dmenu_path dmenu_run
+sudo rm -rf dmenu dmenu_path dmenu_run
+cd ..
+cd
+dmenu
+cd Software/dmenu
+sudo make clean install
+cd ..
+ls
+cd ..
+sudo mv Software /usr/src
+ls
+clear
+ls
+echo $PATH
+ls -A
+ls /etc/X11
+cd /etc/X11
+ls
+cd Xsession.d
+ls
+nvim 90xbrlapi
+ls
+cd ..
+ls
+nvim xorg.conf
+ls xorg.conf.d
+cd
+ls
+ls -A
+rm -rf .Xauthority
+cat .xsession
+compinit -d ~/.cache/zsh/zcompdump-$ZSH_VERSION
+rm -rf .zcompdump
+nvim .zshrc
+nvim .zshrc
+source .zshrc
+ls
+ls -A
+cat .xsession
+cat .xsession-errors
+cd /etc/X11
+ls
+cd Xsession.d
+ls
+sudo nvim 90xbrlapi
+cd
+ls
+ls -A
+rm -rf .xsession-errors*
+ls
+ls -A
+ls .pki
+ls .pki/nssdb
+rm -rf .pki
+ls -A
+nvim .xprofile
+mkdir .config/Xresources
+mv .Xresources .config/Xresources
+cd .config/Xresources
+ls
+mv .Xresources Xresources
+cd
+ls -A
+clear
+ls
+cd .wine
+ls
+cd ..
+ls
+cd .local
+ls
+cd /usr
+ls
+cd
+ls
+ls -A
+mkdir .config/wine
+mv .wine .config/wine/wine
+nvim .zshrc
+ls -A
+ls -A | wc -l
+ls
+ls -A
+ls
+mkdir Videos Code
+cd Documents
+ls
+cd coding
+ls
+mv * ~/Code
+cd ..
+rmdir coding
+ls
+cd ..
+ls
+ls -A | wc -l
+nvim .zshrc
+ls -A
+ls
+lsblk
+lsblk
+lsusb
+echo $BROWSER
+ddgr linux see connected devices command
+echo $BROWSER
+export BROWSER=qutebrowser
+ddgr linux see connected devices command
+ddgr proper place to keep custom scripts linux
+export BROWSER=qutebrowser
+ddgr proper place to keep custom scripts linux
+export BROWSER=/usr/bin/qutebrowser
+ddgr proper place to keep custom scripts linux
+nvim .zshrc
+BROWSER=qutebrowser ddgr query
+BROWSER=firefox ddgr query
+ddgr -h
+ddgr -gb test
+ddgr --gb test
+sudo pacman -Rs ddgr
+sudo pacman -S ddgr
+yay -S ddgr
+ddgr
+clear
+animdl
+animdl test
+clear
+ls -A
+cat .xsession-errors
+lsblk
+lsusb
+pacman -Ss usb daemon
+ddgr hello world
+ddgr -h
+ddgr test
+shutdown -h now
+ddgr hello
+cd /usr/src/Software/dwm
+sudo nvim config.h
+sudo make clean install
+cd
+ls
+cd Code
+mkdir rust
+mv Disassembly/ disassembly
+cd rust
+nvim test.rs
+rustc test.rs
+ls
+./test
+cd Code/rust
+keepassxc-cli open ~/Sync/Pass.kdbx
+clear
+yay -S noto-font-emoji
+pacman -Ss noto emoji
+sudo pacman -S noto-fonts-emoji
+cd Code/rust
+pacman -Ss widevine
+pacman -Ss drm
+yay -S chromium-widevine
+keepassxc-cli open ~/Sync/Pass.kdbx
+cd Code/rust
+ls
+rm -rf hello_rust
+clear
+mkdir workspace
+cd workspace
+nvim main.rs
+ls
+cargo new guessing_game
+nvim main
+nvim main.rs
+nvim guessing_game/src/main.rs
+ls
+cd ..
+ls
+mkdir projects
+mv workspace/guessing_game projects
+nvim test.rs
+mv test.rs main.rs
+ls
+mkdir src
+mv main.rs src
+ls
+ls
+cargo
+cargo build
+ls
+ls
+mkdir hello_world
+mv * hello_world
+ls
+cd hello_world
+ls
+cargo build
+clear
+d
+d
+ls
+cd ..
+cd ru
+cd rust
+ls
+cd hello_rust
+clear
+d
+alacritty &
+alacritty
+s
+clear
+s
+s
+s
+s
+d
+d
+echo hello
+clear
+d
+d
+d
+d
+d
+d
+d
+clear
+d
+d
+d
+clear
+d
+d
+d
+d
+d
+jd
+clear
+d
+d
+d
+nvim hello
+d
+d
+d
+clear
+ls
+cd src
+nvim main.rs
+cargo build
+ls
+cd ..
+ls
+src/main.rs
+cd src
+ls
+ls
+clear
+clear
+nvim main.rs
+ls
+rustc --help
+clear
+rustc test.rs && ./test
+rustc test.rs && ./test
+rustc main.rs && ./main
+ls
+rm -rf test
+ls
+nvim Cargo.toml
+ls
+rm Cargo.toml
+cd hello_world
+nvim Cargo.toml
+ls
+ls src
+cargo build
+nvim src/main.rs
+cd ..
+cargo build
+ls
+cd hello_world
+ls
+rm -rf target
+rm -rf Cargo.lock
+ls src
+cargo build
+ls
+ls target
+nvim Cargo.lock
+clear
+cd ..
+ls
+rm -rf hello_world
+cargo new hello_rust --bin
+ls
+cd hello_rust
+ls
+cat Cargo.toml
+ls -A
+cat .gitignore
+cd ..
+ls
+clear
+;s
+ls
+cd hello_rust
+ls
+clear
+clear
+clear
+cat .git
+cat Cargo.toml
+clear
+ls
+ls src
+clear
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+clear
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+ls -A
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+d
+nvim ~/.config/starship.toml
+clear
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+nvim ~/.config/starship.toml
+clear
+cargo build
+clear
+clear
+cargo build
+clear
+clear
+cargo build
+cargo build
+cd src
+./main
+ls
+cd ..
+ls
+ls target
+clear
+ls
+nvim ~/.config/starship.toml
+d
+clear
+nvim ~/.config/starship.toml
+clear
+cargo build
+ls
+ls src
+find / -name hello_rust
+sudo find / -name hello_rust
+clear
+ls target/debug/
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+clear
+clear
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+cargo build && target/debug/hello_rust
+ncspot
+ncspot
+ncspot
+ncspot
+ncspot
+ncspot
+rustc main.rs && ./main.rs
+rustc main.rs && ./main.rs
+chmod +x main.rs
+rustc main.rs && ./main.rs
+ls
+chmod -x main.rs
+rustc main.rs && ./main
+rustc main.rs && ./main
+rustc main.rs && ./main
+rustc main.rs && ./main
+rustc main.rs && ./main
+rustc main.rs && ./main
+rustc main.rs && ./main
+rustc main.rs && ./main
+ls
+rm -rf main main.rs
+cd guessing_game
+ls
+nvim Cargo.toml
+cargo run
+cargo run
+ls
+cat Cargo.lock
+nvim Cargo.lock
+file Cargo.lock
+file Cargo.toml
+cargo run
+cargo doc --open
+find / -name -i Qt
+find / -name "*Qt*"
+sudo find / -name "*Qt*"
+sudo find / -name "*Qt*" | grep -i plugin
+nvim ~/.zshrc
+cargo doc --open
+source ~/.zshrc
+cargo doc --open
+nvim ~/.zshrc
+source ~/.zshrc
+find / -name "PyQt5"
+sudo find / -name "PyQt5"
+cd /usr/lib/qt/plugins/PyQt5
+ls
+export QT_DEBUG_PLUGINS=1
+cargo doc --open
+nvim ~/.config/qutebrowser/config.py
+cd -
+cargo doc --open
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cd ~/.config
+ls
+cd mpv
+ls
+nvim input.conf
+nvim ~/.config/qutebrowser/config.py
+nvim input.conf
+cd ../qutebrowser
+nvim bookmarks/urls
+ls ~/Downloads
+ls ~/Downloads
+zathura ~/Downloads/print.pdf
+cd ~/Downloads
+ls
+zathura Lf
+zathura LFS-BOOK-10.1-systemd.pdf
+pacman -Ss zathura
+sudo pacman -S zathura-pdf-mupdf
+ls
+zathura LFS-BOOK-10.1-systemd.pdf
+sudo pacman -Rs zathura
+sudo pacman -Rs zathura zathura-pdf-mupdf
+sudo pacman -S zathura zathura-pdf-poppler
+ls
+zathura print.pdf
+pacman -Ss mupdf
+sudo pacman -Rs zathura zathura-pdf-poppler
+pacman -Ss mupdf
+sudo pacman -S mupdf
+mupdf print.pdf
+export DISPLAY=":0"
+mupdf print.pdf
+echo $DISPLAY
+sudo pacman -Rs mupdf
+sudo pacman -S zathura zathura-pdf-poppler
+zathura LFS-BOOK-10.1-systemd.pdf
+export DISPLAY=":0.0"
+zathura LFS-BOOK-10.1-systemd.pdf
+xhost +joe
+xhost *
+nvim /etc/NetworkManager/NetworkManager.conf
+ls /etc/NetworkManager/*
+nvim /etc/NetworkManager/NetworkManager.conf
+sudo nvim /etc/NetworkManager/NetworkManager.conf
+zathura ~/Downloads/print.pdf
+sudo reboot
+zathura ~/Downloads/print.pdf
+whoami
+host
+host -a
+cat /etc/hostname
+nvim /etc/NetworkManager/NetworkManager.conf
+sudo nvim /etc/NetworkManager/NetworkManager.conf
+zathura
+ls
+ls -A
+export DISPLAY="localhost:0"
+zathura
+xhost +localhost
+xhost *
+echo $DISPLAY
+echo $DISPLAY
+nvim ~/.zshrc
+source .zshrc
+zathura
+tmux
+echo $XAUTHORITY
+zathura
+ls
+zathura ~/Downloads/print.pdf
+ls
+cd .config
+ls
+ls cef_user_data/Dictionaries
+ls
+rm -rf cef_user_data
+ls dconf/user
+rm -rf dconf
+rm -rf Epic
+ls procps
+rm -rf procps
+ls -A
+cd
+ls
+ls -A
+cd .config
+ls
+clear
+ls
+xdg-mime default org.pwmt.zathura.desktop application/pdf
+clear
+ls
+cat mimeapps.list
+cd
+ls
+cd Videos
+ls
+cd ..
+ls -A
+clear
+zathura ~/Downloads/print.pdf
+zathura ~/Downloads/print.pdf
+clear
+ls
+cd Documents
+ls
+cd ../Downloads
+ls
+mv LFS-BOOK-10.1-systemd.pdf LFS_BOOK.pdf
+mv print.pdf Rust_Book.pdf
+mv * ~/Documents/
+cd ~/Documents
+ls
+mkdir books
+mv LFS_BOOK.pdf Rust_Book.pdf books
+ls
+ls notes
+mv dnd.txt restoring_position_lfs.txt notes
+ls
+cd ..
+ls
+cd Code
+ls
+cd ..
+ls
+nvim ~/.config/qutebrowser/config.py
+nvim ~/.config/qutebrowser/bookmarks/urls
+nvim ~/.config/qutebrowser/config.py
+clear
+ls
+cd Pictures
+ls
+mkdir cheat_sheets
+cd cheat_sheets
+ls
+mv cheatsheet-big.png qutebrowser_cheat_sheet.png
+sxiv qutebrowser_cheat_sheet.png
+ls
+rm Vim\ Cheat\ Sheet.html
+nvim ~/.config/qutebrowser/bookmarks/urls
+ls
+ls
+sxiv Vim-commands-cheat-sheet-by-PhoenixNAP-1.pdf
+sxiv Vim-commands-cheat-sheet-by-PhoenixNAP-1.pdf
+ls
+sxiv Vim-commands-cheat-sheet-by-PhoenixNAP-1.pdf
+sxiv Vim-commands-cheat-sheet-by-PhoenixNAP-1.pdf
+sxiv qutebrowser_cheat_sheet.png
+rm -rf Vim-commands-cheat-sheet-by-PhoenixNAP-1.pdf
+ls
+cd .mozilla/firefox/98rxkrv0.Hardened/Prismatic-Night
+cd ~/.mozilla/firefox/98rxkrv0.Hardened/Prismatic-Night
+ls
+nvim index.html
+ls
+ls custom_icons
+cd custom_icons
+ls *
+ls -R
+ls -R | grep -i duck
+cd ..
+ls
+cd icons
+ls
+sxiv duck.svg
+cp duck.svg ~/.config/qutebrowser/custom_pages/startpage-wave
+nvim ~/.config/ncspot/config.toml
+cd
+cd .config/qutebrowser
+ls
+mkdir custom_pages
+cd custom_pages
+git clone migueravilla/Bento
+git clone https://github.com/migueravilla/Bento
+git clone https://github.com/migueravila/Bento
+cd Ben
+cd Bento
+ls
+nvim config.js
+ls
+pwd
+nvim config.js
+ls
+nvim app.css
+ls
+pwd
+cat README.md
+cd ..
+ls
+ls
+rm -rf Bento
+git clone https://github.com/Tobias-Schoch/startpage-wave
+cd startpage-wave
+ls
+nvim style.css
+nvim style.css
+ls
+fc-list | grep -i "hack nerd font"
+cp /usr/share/fonts/nerd-fonts-complete/TTF/Hack*Nerd*
+cp /usr/share/fonts/nerd-fonts-complete/TTF/Hack*Nerd* .
+ls
+rm 'Hack Bold Italic Nerd Font Complete.ttf' 'Hack Bold Nerd Font Complete.ttf' 'Hack Italic Nerd Font Complete.ttf' 'Hack Regular Nerd Font Complete.ttf'
+ls
+mv 'Hack Bold Italic Nerd Font Complete Mono.ttf' hackNF-bold-italic.ttf
+ls
+mv 'Hack Bold Nerd Font Complete Mono.ttf' hackNF-bold.ttf
+mv 'Hack Italic Nerd Font Complete Mono.ttf' hackNF-italic.ttf
+mv 'Hack Regular Nerd Font Complete Mono.ttf' hackNF-regular.ttf
+ls
+clear
+nvim style.css
+ls
+nvim script.js
+nvim index.html
+nvim index.html
+ls
+nvim style.css
+nvim ~/.config/qutebrowser/config.py
+shutdown -h now
+ncspot
+ls
+ls
+mkdir fonts
+mv hack* fonts
+mv test* fonts
+ls
+clear
+ls
+ls fonts
+nvim ~/.config/qutebrowser/config.py
+pwd
+ls
+nvim README.md
+git commit -am "Update"
+git status
+git add .config/*
+git status
+git add .config/qutebrowser/custom_pages/starpage-wave .config/tmux/plugins/tmux-nova
+ls
+ls -A
+git add *
+git status
+git add .config/qutebrowser/custom_pages/startpage-wave
+git add .config/tmux/plugins/tmux-nova
+git status
+cd .config/qutebrowser/custom_pages/startpage-wave
+git add *
+git status
+cd ..
+ls
+git add startpage-wave
+cd ..
+cd ../..
+ls
+git status
+ls
+ncspot
+ls
+ls
+ls Videos
+ls
+ls Documents
+ls Pictures
+cd /usr/src/Software
+ls
+sudo mv dotfiles ~/.config
+cd
+cd .config
+ls
+cd dotfiles
+ls
+ls -A
+nvim ~/.zshrc
+rm .zshrc
+cp ~/.zshrc .
+cd .config
+ls
+rm -rf alacritty ncspot nvim starship.toml tmux
+ls
+cp -r ~/.config/alacritty ~/.config/ncspot ~/.config/nvim ~/.config/qutebrowser ~/.config/tmux ~/.config/starship.toml .
+ls
+cp -r ~/.config/mpv .
+ls
+cp -r ~/.config/Xresources .
+cd ..
+ls
+ls -A
+rm .Xresources
+git status
+clear
+ls
+cd .config
+ls
+cd ..
+ls -A
+cd 
+cd .config/qutebrowser/custom_pages/startpage-wave
+nvim index.html
+nvim script.js
+cd ..
+ls
+mv startpage-wave/ startpage
+cd startpage
+ls
+ls -A
+rm -rf .git
+ls
+rm LICENSE
+cd ..
+cd startpage
+ls
+rm google1.svg
+rm wave.svg
+zathura ~/Documents/books/Rust_Book.pdf
+nvim ~/.config/qutebrowser/config.py
+nvim ~/.config/qutebrowser/custom_pages/startpage/style.css
+clear
+cd ~/.config
+ls
+mkdir zathura
+cd zathura
+nvim zathurarc
+nvim zathurarc
+cd ~/Code/rust
+ls
+cd workspace
+r
+cd workspace
+echo hello
+r
+echo hello
+clear
+cargo new testing
+cd testing
+nvim src/main.rs
+zathura ~/Documents/books/Rust_Book.pdf
+zathura ~/Documents/books/Rust_Book.pdf
+zathura ~/Documents/books/Rust_Book.pdf
+zathura ~/Documents/books/Rust_Book.pdf
+zathura ~/Documents/books/Rust_Book.pdf
+zathura ~/Documents/books/Rust_Book.pdf
+zathura ~/Documents/books/Rust_Book.pdf &
+clear
+cd ~/Code/rust/workspace
+ls
+cd testing
+ddgr vim z key
+clear
+cd ~/.config
+ls
+ls htop
+sudo pacman -Rs htop
+rm -rf htop spicetify
+clear
+ls
+cat gtk-3.0/settings.ini
+ls X
+ls Xauthority
+rm -rf Xauthority
+ls ranger
+ranger
+ranger
+cd
+cd ~/Code/rust/workspace
+cd testing
+cd testing
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+ytfzf distrotube shortcuts
+ytfzf distrotube
+pwd ~/Code/rust/workspace
+cd Pictures/cheat_sheets
+cd
+ls
+cd Documents
+ls
+ls
+cd ..
+ls -A
+ls -A | wc -l
+clear
+source .zshrc
+rs
+c
+books
+rs
+cheat
+ls
+rs
+conf
+source .zshrc
+cd
+source .zshrc
+books
+zathura Rust_Book.pdf
+nvim ~/.config/zathura/zathurarc
+zathura Rust_Book.pdf &
+rs
+cd testing
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cd
+clear

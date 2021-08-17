@@ -1,0 +1,19 @@
+set completion-bg "#1B1B1B"
+set completion-fg "#EEEEEE"
+set completion-highlight-bg "#FF6600"
+set completion-highlight-fg "#000000"
+set n-completion-items 10
+
+set default-fg "#EEEEEE"
+set default-bg "#000000"
+
+set font "Hack Nerd Font Regular 12"
+
+set inputbar-fg "#FF6600"
+
+set statusbar-bg "#000000"
+set statusbar-fg "#FF6600"
+
+set highlight-color "#FF6600"
+
+set selection-clipboard clipboard

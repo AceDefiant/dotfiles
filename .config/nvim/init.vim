@@ -10,15 +10,12 @@ set nu
 set incsearch
 set hls!
 let g:python3_host_prog = '/usr/bin/python3'
+let g:airline_theme='atomic'
 
 " Syntax for x86_64 Assembly Language
 if &ft==fnamemodify("%", ":e")
   set syntax=asmx86_64
 endif
-
-" Prettify
-let g:airline_theme='atomic'
-
 " Word Processing
 func! WordProcessor()
   " movement changes

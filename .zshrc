@@ -27,8 +27,13 @@ export WINEPREFIX=$XDG_CONFIG_HOME/wine
 
 # Aliases
 alias ls="ls --color"
-alias conf="cd ~/.config"
 alias ytfzf="ytfzf -t"
+
+  # Path Shorctuts
+  alias conf="cd ~/.config"
+  alias rs="cd ~/Code/rust/workspace"
+  alias cheat="cd ~/Pictures/cheat_sheets"
+  alias books="cd ~/Documents/books"
 
 # Starship Prompt
 eval "$(starship init zsh)"

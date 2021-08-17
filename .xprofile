@@ -1,4 +1,0 @@
-picom &
-feh --bg-scale '/home/joe/Pictures/wallpapers/orange_solar_system.png'
-slstatus &
-[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
