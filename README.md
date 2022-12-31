@@ -1,0 +1,14 @@
+My dotfiles:
+- Alacritty
+- Awesome
+- coc
+- mpv
+- Neofetch
+- Neovim
+- Picom
+- Qutebrowser
+- RoFi
+- Starship
+- tmux
+- Zathura
+- Zsh
