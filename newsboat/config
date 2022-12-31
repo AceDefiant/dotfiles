@@ -1,0 +1,21 @@
+browser "librewolf"
+auto-reload yes
+reload-threads 100
+
+highlight feedlist "---.*---" magenta default bold
+highlight feedlist ".*0/0.." default default invis
+
+#Keybinds
+unbind-key ENTER
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+
+#Macros
+macro v set browser "setsid -f mpv" ; open-in-browser ; set browse
